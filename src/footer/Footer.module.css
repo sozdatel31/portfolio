@@ -1,0 +1,30 @@
+.footerBlock {
+    height: 20vh;
+    background-color: chocolate;
+    flex-wrap: wrap;
+}
+
+.socialNetwork {
+    width: 40px;
+    height: 40px;
+    background-color: #a0e773;
+}
+
+.title {
+    background-color: #b376b6;
+    margin: 3px;
+}
+
+.socialContainer {
+    border: 1px solid;
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}

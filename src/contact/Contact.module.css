@@ -1,0 +1,38 @@
+.contactBlock {
+    height: 80vh;
+    background-color: slategray;
+}
+
+.input {
+    height: 40px;
+}
+
+.form {
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 300px;
+    border: 1px solid;
+
+ }
+.textarea {
+    min-width: 50%;
+    min-height: 50%;
+}
+.contactContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.text {
+    width: 300px;
+    background-color: coral;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: coral;
+}

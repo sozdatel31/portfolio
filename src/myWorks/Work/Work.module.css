@@ -1,0 +1,33 @@
+.workBlock {
+    width: 300px;
+    background-color: #b376b6;
+    display: flex;
+    border: 1px solid;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("http://vignette1.wikia.nocookie.net/logopedia/images/a/a4/Google-Currents-Featured-300x300.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.btn {
+
+}
+
+.workName {
+    background-color: #a0e773;
+}
+
+.description {
+    background-color: coral;
+
+}
